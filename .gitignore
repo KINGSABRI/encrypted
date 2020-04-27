@@ -1,0 +1,6 @@
+.gitsecret/keys/random_seed
+!*.secret
+dir1/file.exe
+dir1/file2.exe
+dir2/file12.exe
+dir2/file22.exe
